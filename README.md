@@ -69,4 +69,4 @@ Jetzt kann der Webbrowser unter:
 http://localhost:8888
 ```
 
-geöffnet werden. Dort befinden alle notebooks.
+geöffnet werden. Dort befinden sich alle notebooks.
