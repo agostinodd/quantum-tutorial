@@ -15,7 +15,7 @@ gh repo clone agostinodd/quantum-tutorial
 
 oder das .zip Packet runterladen und entpacken.
 
-### 2. Docker installierewn
+### 2. Docker installieren
 Die Installationsanleitung für alle Plattformen sind unter:
 
 Windows:
