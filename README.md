@@ -66,7 +66,7 @@ sudo docker run -p 8888:8888 quantum-tutorial
 Jetzt kann der Webbrowser unter:
 
 ```url
-http://localhost:8888
+http://localhost:8888/lab/tree/quantum-tutorial/Einleitung.ipynb
 ```
 
 geöffnet werden. Dort befinden sich alle notebooks.
