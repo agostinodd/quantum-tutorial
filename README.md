@@ -70,3 +70,16 @@ http://localhost:8888/lab/tree/quantum-tutorial/Einleitung.ipynb
 ```
 
 geöffnet werden. Dort befinden sich alle notebooks.
+
+## Online betrachten
+
+Die Notebooks werden in Github teils fehlerhaft dargestellt. Aus diesem Grund kann man die Notbooks hier online betrachten:
+
+```url
+https://nbviewer.jupyter.org/github/agostinodd/quantum-tutorial/tree/main/notebooks/
+```
+Unter folgender URL startet das Tutorial direkt bei der Einleitung
+
+```url
+https://nbviewer.jupyter.org/github/agostinodd/quantum-tutorial/blob/main/notebooks/Einleitung.ipynb
+```
