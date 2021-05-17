@@ -12,7 +12,7 @@ RUN pip install 'ggplot==0.6.8' && \
     mkdir /home/jovyan/quantum-tutorial && \
     rm -rf /home/jovyan/work 
 
-COPY notebooks/* /home/jovyan/quantum-tutorial/
+COPY notebooks/ /home/jovyan/quantum-tutorial/
 
 EXPOSE 8888
 
